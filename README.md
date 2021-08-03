@@ -8,5 +8,5 @@ Installation
 
 2- "npx json-server --watch db.json". Run this code in api file to open json-server.
 
-3- "npm start" run this code in intro file.
+3- "npm start" run this code in the intro file to see the working state of the project.
 
